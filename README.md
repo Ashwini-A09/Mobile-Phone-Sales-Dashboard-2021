@@ -41,5 +41,6 @@ This dashboard provides actionable insights into sales distribution by category 
 
 
 📌**Conclusion**
+
 The dashboard effectively summarizes 2021 mobile phone sales, offering quick insights into trends, top products, and sales performance using Excel.
 
